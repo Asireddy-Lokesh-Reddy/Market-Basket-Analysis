@@ -141,7 +141,7 @@ pip install pandas numpy matplotlib scikit-learn jupyter openpyxl
    jupyter notebook
    ```
 
-5. Open `basket(3).ipynb` and run the cells in order.
+5. Open `basket.ipynb` and run the cells in order.
 
 To run the Python script instead:
 
