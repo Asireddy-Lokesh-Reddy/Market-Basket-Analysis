@@ -29,10 +29,9 @@ A suggested repository layout is:
 ```text
 online-retail-transaction-clustering/
 ├── basket.py
-├── basket(3).ipynb
+├── basket.ipynb
 ├── Online retail_new.csv
-├── Online retail(2).xlsx
-├── Case Study(2).docx
+├── Case Study.docx
 └── README.md
 ```
 
@@ -183,10 +182,4 @@ These are potential applications; the clustering results alone do not establish 
 - Explore alternative dimensionality-reduction techniques or transaction similarity measures.
 - Use association-rule mining to investigate products that occur together, since frequency counts alone do not identify product combinations.
 
-## Author
 
-Add your name, institution, course, and GitHub profile here.
-
-## License
-
-Add a license for your code if you want others to reuse it. Check the dataset's license separately before redistributing the data.
