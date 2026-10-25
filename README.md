@@ -1,5 +1,7 @@
 # Online Retail Transaction Clustering
 
+This repository contains a market basket analysis project for online retail transactions, combining transaction preprocessing, exploratory analysis, and clustering to identify groups of similar shopping baskets.
+
 ## Overview
 
 This project analyzes online retail shopping baskets to discover similarities between transactions and explore purchasing patterns. It uses data cleaning, descriptive statistics, visualization, binary transaction encoding, Principal Component Analysis (PCA), and four clustering algorithms: K-means, Agglomerative Hierarchical Clustering, Spectral Clustering, and DBSCAN.
@@ -182,4 +184,11 @@ These are potential applications; the clustering results alone do not establish 
 - Explore alternative dimensionality-reduction techniques or transaction similarity measures.
 - Use association-rule mining to investigate products that occur together, since frequency counts alone do not identify product combinations.
 
+## Author
+
+- [Asireddy-Lokesh-Reddy](https://github.com/Asireddy-Lokesh-Reddy)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
